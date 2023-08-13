@@ -1,0 +1,770 @@
+[
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon davlat chet tillari instituti",
+      "value": "420"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon davlat pedagogika instituti",
+      "value": "403"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon davlat tibbiyot instituti",
+      "value": "361"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon davlat universiteti",
+      "value": "301"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon iqtisodiyot va qurilish instituti",
+      "value": "323"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon mashinasozlik instituti",
+      "value": "303"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Andijon qishloq xo‘jaligi va agrotexnologiyalar instituti",
+      "value": "371"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent moliya instituti Andijon fakulteti",
+      "value": "423"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan davlat chet tillari instituti",
+      "value": "419"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan davlat pedagogika instituti",
+      "value": "426"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan davlat universiteti",
+      "value": "309"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan muhandislik-qurilish instituti",
+      "value": "310"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan muhandislik-texnologiya instituti",
+      "value": "311"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Namangan to‘qimachilik sanoati instituti",
+      "value": "427"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Farg‘ona davlat universiteti",
+      "value": "342"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Farg‘ona jamoat salomatligi tibbiyot instituti",
+      "value": "344"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Farg‘ona politexnika instituti",
+      "value": "343"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat jismoniy tarbiya va sport universiteti Farg‘ona filiali",
+      "value": "411"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat sanʼat va madaniyat instituti  Farg‘ona mintaqaviy filiali",
+      "value": "381"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Oziq-ovqat texnologiyasi va muhandisligi xalqaro instituti",
+      "value": "424"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qo‘qon davlat pedagogika instituti",
+      "value": "356"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti Farg‘ona filiali",
+      "value": "392"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat texnika universiteti Qoʻqon filiali",
+      "value": "370"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Buxoro davlat pedagogika instituti",
+      "value": "404"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Buxoro davlat universiteti",
+      "value": "304"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Buxoro muhandislik-texnologiya instituti",
+      "value": "305"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Buxoro tabiiy resurslarni boshqarish instituti",
+      "value": "394"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Buxoro tibbiyot instituti",
+      "value": "362"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat xoreografiya akademiyasi Urganch filiali",
+      "value": "409"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti Urganch filiali",
+      "value": "390"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent tibbiyot akademiyasi Urganch filiali",
+      "value": "338"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Urganch davlat pedagogika instituti",
+      "value": "428"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Urganch davlat universiteti",
+      "value": "341"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Denov tadbirkorlik va pedagogika instituti",
+      "value": "348"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Termiz agrotexnologiyalar va innovatsion rivojlanish instituti",
+      "value": "374"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Termiz davlat pedagogika instituti",
+      "value": "357"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Termiz davlat universiteti",
+      "value": "340"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat texnika universiteti Termiz filiali",
+      "value": "379"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent tibbiyot akademiyasi Termiz filiali",
+      "value": "368"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qarshi davlat universiteti",
+      "value": "345"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qarshi irrigatsiya va agrotexnologiyalar instituti",
+      "value": "397"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qarshi muhandislik - iqtisodiyot instituti",
+      "value": "375"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Shahrisabz davlat pedagogika instituti",
+      "value": "405"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti Qarshi filiali",
+      "value": "389"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent kimyo-texnologiya instituti Shahrisabz filiali",
+      "value": "335"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Jizzax davlat pedagogika universiteti",
+      "value": "351"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Jizzax politexnika instituti",
+      "value": "308"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston Milliy universiteti Jizzax filiali",
+      "value": "401"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Navoiy davlat konchilik va texnologiyalar universiteti",
+      "value": "319"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Navoiy davlat pedagogika instituti",
+      "value": "353"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "\"Ipak yo‘li\" turizm va madaniy meros xalqaro universiteti",
+      "value": "396"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Oliy sport mahorati instituti ",
+      "value": "429"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat arxitektura-qurilish universiteti",
+      "value": "313"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat chet tillar instituti",
+      "value": "347"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat chet tillar instituti Narpay \"Xorijiy tillar\" fakulʼteti",
+      "value": "413"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat chet tillar instituti Payariq \"Xorijiy tillar\" fakulʼteti",
+      "value": "414"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat universiteti",
+      "value": "312"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat universiteti Kattaqo‘rg‘on filiali",
+      "value": "406"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat universitetining O‘zbekiston-Finlyandiya pedagogika instituti",
+      "value": "415"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat universiteti Urgut filiali",
+      "value": "358"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti",
+      "value": "372"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand iqtisodiyot va servis instituti",
+      "value": "385"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti Samarqand filiali",
+      "value": "388"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat agrar universiteti Samarqand  filiali",
+      "value": "320"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat iqtisodiyot universiteti Samarqand filiali",
+      "value": "360"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Самарқанд давлат тиббиёт университети",
+      "value": "363"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Guliston davlat pedagogika instituti",
+      "value": "425"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Guliston davlat universiteti",
+      "value": "307"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent kimyo-texnologiya instituti Yangiyer filiali",
+      "value": "402"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Chirchiq davlat pedagogika universiteti",
+      "value": "354"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston  davlat jismoniy tarbiya va sport universiteti",
+      "value": "382"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat agrar universiteti",
+      "value": "373"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat texnika universiteti Olmaliq filiali",
+      "value": "365"
+    }
+  ],
+  [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Fiskal Institut",
+      "value": "416"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Geologiya fanlari universiteti",
+      "value": "318"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Jahon iqtisodiyoti va diplomatiya universiteti",
+      "value": "350"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Jamoat xavfsizligi universiteti",
+      "value": "322"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Milliy estrada san'ati instituti",
+      "value": "421"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Milliy rassomlik va dizayn instituti",
+      "value": "329"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat jahon tillari universiteti",
+      "value": "326"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston  davlat konservatoriyasi",
+      "value": "378"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat sanʼat va madaniyat instituti",
+      "value": "377"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat xoreografiya akademiyasi",
+      "value": "325"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston jurnalistika va ommaviy kommunikatsiyalar universiteti",
+      "value": "395"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston Milliy universiteti",
+      "value": "314"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston Respublikasi Huquqni muhofaza qilish akademiyasi",
+      "value": "430"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston xalqaro islom akademiyasi",
+      "value": "306"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbek milliy musiqa sanʼati instituti",
+      "value": "407"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Toshkent filiali",
+      "value": "387"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent arxitektura-qurilish universiteti",
+      "value": "328"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti",
+      "value": "380"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat iqtisodiyot universiteti",
+      "value": "324"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat o‘zbek tili va adabiyoti universiteti",
+      "value": "302"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat pedagogika universiteti",
+      "value": "355"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat sharqshunoslik universiteti",
+      "value": "327"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat stomatologiya instituti",
+      "value": "366"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat texnika universiteti",
+      "value": "315"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat transport universiteti",
+      "value": "334"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat yuridik universiteti",
+      "value": "384"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent farmatsevtika instituti",
+      "value": "369"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "\"Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti\" milliy tadqiqotlar universiteti",
+      "value": "376"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent kimyo-texnologiya instituti",
+      "value": "337"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent moliya instituti",
+      "value": "336"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent  pediatriya tibbiyot instituti",
+      "value": "367"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent tibbiyot akademiyasi",
+      "value": "364"
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent to‘qimachilik va yengil sanoat instituti",
+      "value": "331"
+    }
+  ]
+]

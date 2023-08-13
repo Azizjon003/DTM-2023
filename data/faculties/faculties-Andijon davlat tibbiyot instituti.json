@@ -1,0 +1,611 @@
+[
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi",
+    "value": "60910200"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Andijon shahri",
+    "value": "6091020033"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Andijon tumani",
+    "value": "60910200105"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Asaka tumani",
+    "value": "60910200106"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Baliqchi tumani",
+    "value": "60910200107"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Beshariq tumani",
+    "value": "60910200130"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Bog'dod tumani",
+    "value": "60910200131"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Bo'ston tumani",
+    "value": "60910200257"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Buloqboshi tumani",
+    "value": "60910200109"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Dang'ara tumani",
+    "value": "60910200133"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Farg'ona tumani",
+    "value": "60910200134"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Furqat tumani",
+    "value": "60910200135"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Izboskan tumani",
+    "value": "60910200110"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Jalaquduq tumani",
+    "value": "60910200111"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Kosonsoy tumani",
+    "value": "60910200121"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Marg'ilon shahri",
+    "value": "6091020040"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Marxamat tumani",
+    "value": "60910200112"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Oltiariq tumani",
+    "value": "60910200137"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Oltinko'l tumani",
+    "value": "60910200113"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-O'zbekiston tumani",
+    "value": "60910200139"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Paxtaobod tumani",
+    "value": "60910200114"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Qo'qon shahri",
+    "value": "6091020041"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Qorasuv shahri",
+    "value": "60910200260"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Qo'rg'ontepa tumani",
+    "value": "60910200115"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Qo'shtepa tumani",
+    "value": "60910200252"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Quvasoy shahri",
+    "value": "6091020042"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Quva tumani",
+    "value": "60910200140"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Rishton tumani",
+    "value": "60910200141"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Shaxrixon tumani",
+    "value": "60910200116"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-So'x tumani",
+    "value": "60910200142"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Toshloq tumani",
+    "value": "60910200143"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Uchko'prik tumani",
+    "value": "60910200144"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Ulug'nor tumani",
+    "value": "60910200117"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Uychi tumani",
+    "value": "60910200128"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Xo'jaobod tumani",
+    "value": "60910200118"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Xonobod shahri",
+    "value": "6091020037"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Davolash ishi-Yozyovon tumani",
+    "value": "60910200145"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Farmatsiya (turlari bo‘yicha)",
+    "value": "60910700"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Oliy hamshiralik ishi",
+    "value": "60911200"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi",
+    "value": "60910300"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Andijon shahri",
+    "value": "6091030033"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Andijon tumani",
+    "value": "60910300105"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Asaka tumani",
+    "value": "60910300106"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Baliqchi tumani",
+    "value": "60910300107"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Bog'dod tumani",
+    "value": "60910300131"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Bo'ston tumani",
+    "value": "60910300257"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Buloqboshi tumani",
+    "value": "60910300109"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Buvayda tumani",
+    "value": "60910300132"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Dang'ara tumani",
+    "value": "60910300133"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Farg'ona shahri",
+    "value": "6091030039"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Farg'ona tumani",
+    "value": "60910300134"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Furqat tumani",
+    "value": "60910300135"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Izboskan tumani",
+    "value": "60910300110"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Jalaquduq tumani",
+    "value": "60910300111"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Marg'ilon shahri",
+    "value": "6091030040"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Marxamat tumani",
+    "value": "60910300112"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Namangan shahri",
+    "value": "6091030038"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Oltiariq tumani",
+    "value": "60910300137"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Oltinko'l tumani",
+    "value": "60910300113"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-O'zbekiston tumani",
+    "value": "60910300139"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Paxtaobod tumani",
+    "value": "60910300114"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Qo'qon shahri",
+    "value": "6091030041"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Qorasuv shahri",
+    "value": "60910300260"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Qo'rg'ontepa tumani",
+    "value": "60910300115"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Qo'shtepa tumani",
+    "value": "60910300252"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Quvasoy shahri",
+    "value": "6091030042"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Quva tumani",
+    "value": "60910300140"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Rishton tumani",
+    "value": "60910300141"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Shaxrixon tumani",
+    "value": "60910300116"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Toshloq tumani",
+    "value": "60910300143"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Ulug'nor tumani",
+    "value": "60910300117"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Xo'jaobod tumani",
+    "value": "60910300118"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Xonobod shahri",
+    "value": "6091030037"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Pediatriya ishi-Yozyovon tumani",
+    "value": "60910300145"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Sanoat farmatsiyasi (turlari bo‘yicha)",
+    "value": "60910800"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Stomatologiya (yo‘nalishlar bo‘yicha) ",
+    "value": "60910100"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi",
+    "value": "60910400"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Baliqchi tumani",
+    "value": "60910400107"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Bo'ston tumani",
+    "value": "60910400257"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Buloqboshi tumani",
+    "value": "60910400109"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Izboskan tumani",
+    "value": "60910400110"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Marxamat tumani",
+    "value": "60910400112"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Qo'rg'ontepa tumani",
+    "value": "60910400115"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-So'x tumani",
+    "value": "60910400142"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Ulug'nor tumani",
+    "value": "60910400117"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Tibbiy profilaktika ishi-Xo'jaobod tumani",
+    "value": "60910400118"
+  },
+  {
+    "disabled": false,
+    "group": null,
+    "selected": false,
+    "text": "Xalq tabobati ",
+    "value": "60911100"
+  }
+]
