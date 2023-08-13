@@ -3,7 +3,6 @@ const { Builder, By, Key, until } = require("selenium-webdriver");
 const searchData = require("./imports/search");
 const targetRegion = require("./imports/regionTarget");
 const universitesTarget = require("./imports/universitesTarget");
-const Student = require("./db/models/student");
 
 // Chrome brauzerni ochish uchun WebDriver yaratamiz
 
@@ -18,7 +17,7 @@ async function exampleTest(region, u, f, qoldiq = 0) {
     await searchData(driver);
     await driver.sleep(1000);
 
-    await targetRegion(driver, "Navoiy viloyati");
+    await targetRegion(driver, region);
     await driver.sleep(1000);
 
     await universitesTarget(driver, u, f);
@@ -28,6 +27,21 @@ async function exampleTest(region, u, f, qoldiq = 0) {
 
     await driver.sleep(2000);
 
+    let pages = await driver.findElement(
+      By.css('[style="background-color: #bee5eb;"]')
+    );
+
+    console.log(pages.length);
+
+    let page = (await pages.getText())
+      .split("Barcha topilgan ma'lumotlar soni:")[1]
+      .split("Konkurs:")[0]
+      .trim();
+
+    if (!(Number(page) >= 11)) {
+      await driver.quit();
+      await exampleTest(region, u, f + 1);
+    }
     let html = await driver.findElement(By.className("page-link"));
 
     let htmlData = await html.getAttribute("formaction");
@@ -46,16 +60,6 @@ async function exampleTest(region, u, f, qoldiq = 0) {
     // let bosspage = await driver.findElement(By.id("qoldiq"));
 
     await html.click();
-    let pages = await driver.findElement(
-      By.css('[style="background-color: #bee5eb;"]')
-    );
-
-    console.log(pages.length);
-
-    let page = (await pages.getText())
-      .split("Barcha topilgan ma'lumotlar soni:")[1]
-      .split("Konkurs:")[0]
-      .trim();
 
     page = Math.ceil(Number(page) / 10);
     page = Math.ceil(page / 2) - qoldiq;
@@ -117,7 +121,8 @@ async function exampleTest(region, u, f, qoldiq = 0) {
       }
 
       if (j === page - 1) {
-        exampleTest(region, u, f + 1);
+        await driver.quit();
+        await exampleTest(region, u, f + 1);
       }
       console.log(await driver.getCurrentUrl());
       await driver.sleep(1000);
@@ -136,7 +141,7 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
     await searchData(driver);
     await driver.sleep(1000);
 
-    await targetRegion(driver, "Navoiy viloyati");
+    await targetRegion(driver, region);
     await driver.sleep(5000);
 
     await universitesTarget(driver, u, f);
@@ -155,6 +160,10 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
       .split("Konkurs:")[0]
       .trim();
 
+    if (!(Number(page) >= 11)) {
+      await driver.quit();
+      await pereviousTest(region, u, f + 1);
+    }
     page = Math.ceil(Number(page) / 10);
     let html = await driver.findElement(By.className("page-link"));
 
@@ -238,6 +247,7 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
       }
 
       if (j === page - 1) {
+        await driver.quit();
         await pereviousTest(region, u, f + 1);
       }
       console.log(await driver.getCurrentUrl());

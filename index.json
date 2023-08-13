@@ -1,0 +1,2206 @@
+{
+  "regionId": 1,
+  "universities": [
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Nukus davlat pedagogika instituti",
+      "value": "352",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Biologiya",
+          "value": "60110900"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Biologiya-To'rtko'l tumani",
+          "value": "60110900103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Boshlang‘ich ta’lim",
+          "value": "60110500"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Boshlang‘ich ta’lim-Bo‘zatov tumani",
+          "value": "60110500258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Fizika va astronomiya",
+          "value": "60110700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Fizika va astronomiya-Mo'ynoq tumani",
+          "value": "6011070096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Fizika va astronomiya-Taxtako'pir tumani",
+          "value": "60110700102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Geografiya va iqtisodiy bilim asoslari",
+          "value": "60111000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Geografiya va iqtisodiy bilim asoslari-Mo'ynoq tumani",
+          "value": "6011100096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jismoniy madaniyat",
+          "value": "60112200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jismoniy madaniyat (xotin-qizlar sporti yo‘nalishi bo‘yicha)",
+          "value": "60112201"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyo",
+          "value": "60110800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyo-Ellikqal'a tumani",
+          "value": "6011080094"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyo-Taxtako'pir tumani",
+          "value": "60110800102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Maktabgacha ta’lim",
+          "value": "60110200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Maktabgacha va boshlang‘ich ta'limda jismoniy tarbiya va sport",
+          "value": "60111900"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika va informatika",
+          "value": "60110600"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika va informatika-Mo'ynoq tumani",
+          "value": "6011060096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika va informatika-Taxtako'pir tumani",
+          "value": "60110600102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika va informatika-To'rtko'l tumani",
+          "value": "60110600103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Maxsus pedagogika : logopediya",
+          "value": "60112704"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi",
+          "value": "60112100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi-Ellikqal'a tumani",
+          "value": "6011210094"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi-Mo'ynoq tumani",
+          "value": "6011210096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi-To'rtko'l tumani",
+          "value": "60112100103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Musiqa ta'limi",
+          "value": "60111300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: qoraqalpoq tili va adabiyot",
+          "value": "60111505"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: qozoq tili va adabiyot",
+          "value": "60111507"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti",
+          "value": "60111501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti-Bo‘zatov tumani",
+          "value": "60111501258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti-Ellikqal'a tumani",
+          "value": "6011150194"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti-Mo'ynoq tumani",
+          "value": "6011150196"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti-Taxtako'pir tumani",
+          "value": "60111501102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: rus tili va adabiyoti-To'rtko'l tumani",
+          "value": "60111501103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ona tili va adabiyot: turkman tili va adabiyot",
+          "value": "60111502"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘zbek tili va adabiyoti",
+          "value": "60111400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘zga tilli guruhlarda o‘zbek tili (rus guruhlari uchun)",
+          "value": "60111602"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘zga tilli guruhlarda rus tili (o‘zbek guruhlari uchun)",
+          "value": "60111701"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘zga tilli guruhlarda rus tili (qoraqalpoq guruhlari uchun)",
+          "value": "60111702"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pedagogika",
+          "value": "60110100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pedagogika-Ellikqal'a tumani",
+          "value": "6011010094"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pedagogika-To'rtko'l tumani",
+          "value": "60110100103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tarix",
+          "value": "60111100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tarix-To'rtko'l tumani",
+          "value": "60111100103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tasviriy san'at va muhandislik grafikasi  ",
+          "value": "60111200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Texnologik ta’lim",
+          "value": "60112300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xorijiy til va adabiyoti: ingliz tili",
+          "value": "60111802"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xorijiy til va adabiyoti: ingliz tili-Bo‘zatov tumani",
+          "value": "60111802258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xorijiy til va adabiyoti: ingliz tili-To'rtko'l tumani",
+          "value": "60111802103"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Nukus konchilik instituti",
+      "value": "317",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60710403"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Elektr energetikasi (tarmoqlar va yo‘nalishlar bo‘yicha)",
+          "value": "60710601"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyoviy texnologiya (ishlab chiqarish turlari bo‘yicha)",
+          "value": "60710101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Konchilik elektr mexanikasi",
+          "value": "60721900"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Konchilik ishi (faoliyat turlari bo‘yicha)",
+          "value": "60721502"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Mashinasozlik texnologiyasi, mashinasozlik ishlab chiqarishini jihozlash va avtomatlashtirish",
+          "value": "60720800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Metallurgiya (metall turlari bo‘yicha)",
+          "value": "60712101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (tarmoqlar bo‘yicha)",
+          "value": "60711404"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Oʻzbekiston  davlat jismoniy tarbiya va sport universiteti Nukus filiali",
+      "value": "399",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: badiiy gimnastika",
+          "value": "61010303"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: badminton",
+          "value": "61010304"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: basketbol",
+          "value": "61010306"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: boks",
+          "value": "61010309"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: dzyudo",
+          "value": "61010313"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: erkin kurash",
+          "value": "61010362"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: eshkak eshish",
+          "value": "61010363"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: futbol",
+          "value": "61010342"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: kurash",
+          "value": "61010320"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: og‘ir atletika",
+          "value": "61010324"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: qilichbozlik",
+          "value": "61010319"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: qo‘l to‘pi",
+          "value": "61010321"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: shaxmat",
+          "value": "61010361"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: suzish",
+          "value": "61010336"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: velosport",
+          "value": "61010310"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: voleybol",
+          "value": "61010311"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: yengil atletika",
+          "value": "61010314"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: yunon-rum kurashi",
+          "value": "61010364"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat konservatoriyasi Nukus filiali",
+      "value": "408",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: fortepiano (organ)",
+          "value": "60211501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: puflama va zarbli cholg‘ular (fleyta, goboy)",
+          "value": "60211508"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: puflama va zarbli cholg‘ular (klarnet, fagot)",
+          "value": "60211506"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: puflama va zarbli cholg‘ular (trombon, tuba)",
+          "value": "60211507"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: puflama va zarbli cholg‘ular (valtorna, truba)",
+          "value": "60211503"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: puflama va zarbli cholg‘ular (zarbli cholg‘ular)",
+          "value": "60211504"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: torli cholg‘ular (skripka, alt)",
+          "value": "60211512"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: torli cholg‘ular (violonchel, kontrabas)",
+          "value": "60211511"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: Xalq cholg‘ulari (chang)",
+          "value": "60211520"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (dutor, dutor bas, dutor kontrabas, dombira)",
+          "value": "60211516"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (g‘ijjak, g‘ijjak al't)",
+          "value": "60211515"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (g‘ijjak qobus bas, g‘ijjak qobus-kontrabas)",
+          "value": "60211514"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (nay-qo‘shnay, bayan-akkordeyon)",
+          "value": "60211519"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (rubob prima, qashqar va afg‘on rubobi)",
+          "value": "60211513"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: xalq cholg‘ulari (zarbli cholg‘ular)",
+          "value": "60211518"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dirijyorlik: akademik xor dirijyorligi",
+          "value": "60211301"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Professional ta'lim: cholg‘u ijrochiligi (turlari bo‘yicha)",
+          "value": "60112412"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Professional ta'lim: vokal san'ati (turlari bo'yicha)",
+          "value": "60112417"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "San'atshunoslik: musiqashunoslik",
+          "value": "60211006"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Vokal san'ati: akademik xonandalik",
+          "value": "60211401"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "O‘zbekiston davlat sanʼat va madaniyat instituti Nukus filiali",
+      "value": "393",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Aktyorlik san'ati: dramatik teatr va kino aktyorligi",
+          "value": "60211110"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Aktyorlik san'ati: estrada aktyorligi",
+          "value": "60211109"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Aktyorlik san'ati: musiqali teatr aktyorligi",
+          "value": "60211108"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kutubxona-axborot faoliyati (kutubxonachilik va bibliografiya)",
+          "value": "60320401"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Madaniyat va san’at muassasalarini tashkil etish hamda boshqarish",
+          "value": "60212000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Professional ta'lim: xalq ijodiyoti (chog‘u ijrochiligi)",
+          "value": "60112410"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Professional ta'lim: xalq ijodiyoti (vokal ijrochiligi)",
+          "value": "60112406"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Rejissorlik: kino va televideniye rejissorligi",
+          "value": "60211202"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "San'atshunoslik: kino san'ati tanqidi va tahlili",
+          "value": "60211001"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "San'atshunoslik: teatrshunoslik",
+          "value": "60211003"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Texnogen san'at: kino, televideniye va radio ovoz rejissorligi",
+          "value": "60210101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xalq ijodiyoti: ashula va raqs",
+          "value": "60211902"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xalq ijodiyoti (baxshichilik va dostonchilik)",
+          "value": "60211903"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qoraqalpog‘iston qishloq xo‘jaligi va agrotexnologiyalar instituti",
+      "value": "386",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Agrokimyo va agrotuproqshunoslik",
+          "value": "60810700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Agronomiya (dehqonchilik mahsulotlari turlari bo‘yicha)",
+          "value": "60810901"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Axborot tizimlari va texnologiyalari (qishloq xo‘jaligida raqamli texnologiyalar)",
+          "value": "60610201"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Biznesni boshqarish (qishloq xo‘jaligida)",
+          "value": "60411302"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dorivor o‘simliklarni yetishtirish va qayta ishlash texnologiyasi",
+          "value": "60812100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60710403"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Gidrotexnika inshootlari va nasos stansiyalaridan foydalanish",
+          "value": "60812500"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ipakchilik va tutchilik",
+          "value": "60811700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310106"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Issiqxona xo‘jaligini tashkil etish va yuritish",
+          "value": "60812000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Logistika (agrologistika)",
+          "value": "60411701"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Marketing (qishloq xo‘jaligida)",
+          "value": "60412502"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Meva-sabzavotchilik va uzumchilik",
+          "value": "60811800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘rmonchilik (o‘rmonchilar va ularning farzandlari uchun)",
+          "value": "60820101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘rmonchilik va aholi yashash joylarini ko‘kalamzorlashtirish",
+          "value": "60820100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "O‘simliklar karantini va himoyasi",
+          "value": "60811000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qishloq xo‘jaligi ekinlari seleksiyasi va urug‘chiligi (ekin turlari bo‘yicha)",
+          "value": "60811200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qishloq xo‘jaligini mexanizatsiyalashtirish",
+          "value": "60810100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qishloq xo‘jalik mahsulotlarini saqlash va qayta ishlash texnologiyasi (mahsulotlar turlari bo‘yicha)",
+          "value": "60811300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Suv xo‘jaligi va melioratsiya",
+          "value": "60812300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (qishloq xo‘jaligida)",
+          "value": "60711402"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (yirik shoxli mollar kasalliklari)",
+          "value": "60840101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yer kadastri va yerdan foydalanish",
+          "value": "60810600"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yurisprudensiya (qishloq xo‘jaligi huquqi)",
+          "value": "60420102"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qoraqalpog‘iston tibbiyot instituti",
+      "value": "349",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi",
+          "value": "60910200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Beruniy tumani",
+          "value": "6091020092"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Chimboy tumani",
+          "value": "6091020093"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Ellikqal'a tumani",
+          "value": "6091020094"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Kegeyli tumani",
+          "value": "6091020095"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Mo'ynoq tumani",
+          "value": "6091020096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Nukus shahri",
+          "value": "6091020031"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Nukus tumani",
+          "value": "6091020097"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Qanliko'l tumani",
+          "value": "6091020098"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Qo'ng'irot tumani",
+          "value": "60910200100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Qorao'zak tumani",
+          "value": "6091020099"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Shumanay tumani",
+          "value": "60910200101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Taxiatosh tumani",
+          "value": "6091020032"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Taxtako'pir tumani",
+          "value": "60910200102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-To'rtko'l tumani",
+          "value": "60910200103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Davolash ishi-Xo'jayli tumani",
+          "value": "60910200104"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Farmatsiya (turlari bo‘yicha)",
+          "value": "60910700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Oliy hamshiralik ishi",
+          "value": "60911200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi",
+          "value": "60910300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Amudaryo tumani",
+          "value": "6091030091"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Beruniy tumani",
+          "value": "6091030092"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Bo‘zatov tumani",
+          "value": "60910300258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Chimboy tumani",
+          "value": "6091030093"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Ellikqal'a tumani",
+          "value": "6091030094"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Kegeyli tumani",
+          "value": "6091030095"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Mo'ynoq tumani",
+          "value": "6091030096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Nukus tumani",
+          "value": "6091030097"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Qanliko'l tumani",
+          "value": "6091030098"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Qo'ng'irot tumani",
+          "value": "60910300100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Qorao'zak tumani",
+          "value": "6091030099"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Shumanay tumani",
+          "value": "60910300101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Taxiatosh tumani",
+          "value": "6091030032"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Taxtako'pir tumani",
+          "value": "60910300102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-To'rtko'l tumani",
+          "value": "60910300103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Pediatriya ishi-Xo'jayli tumani",
+          "value": "60910300104"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Stomatologiya (yo‘nalishlar bo‘yicha) ",
+          "value": "60910100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy-biologik ish",
+          "value": "60910600"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy-biologik ish-Bo‘zatov tumani",
+          "value": "60910600258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy-biologik ish-Mo'ynoq tumani",
+          "value": "6091060096"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy-biologik ish-Qorao'zak tumani",
+          "value": "6091060099"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy profilaktika ishi",
+          "value": "60910400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy profilaktika ishi-Bo‘zatov tumani",
+          "value": "60910400258"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tibbiy profilaktika ishi-Taxtako'pir tumani",
+          "value": "60910400102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xalq tabobati ",
+          "value": "60911100"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qoraqalpoq davlat universiteti",
+      "value": "346",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Amaliy filologiya",
+          "value": "60230700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Amaliy matematika",
+          "value": "60540200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Amaliy san'at: badiiy kulolchilik",
+          "value": "60210802"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Arxeologiya",
+          "value": "60220400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Arxitektura (turlari bo‘yicha)",
+          "value": "60730100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Arxitektura yodgorliklari rekonstruktsiyasi va restavratsiyasi",
+          "value": "60731100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Axborot xizmati va jamoatchilik bilan aloqalar",
+          "value": "60320200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Biologiya (turlari bo‘yicha)",
+          "value": "60510102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Budjet nazorati va g‘aznachiligi",
+          "value": "60410700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Buxgalteriya hisobi va audit (tarmoqlar bo‘yicha)",
+          "value": "60410103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Cholg‘u ijrochiligi: an'anaviy cholg‘ular",
+          "value": "60211502"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dizayn: landshaft dizayni",
+          "value": "60210406"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dizayn: libos va gazlamalar",
+          "value": "60210402"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dorivor o‘simliklarni yetishtirish va qayta ishlash texnologiyasi",
+          "value": "60812100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60710403"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ekonometrika",
+          "value": "60310200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Elektr energetikasi (tarmoqlar va yo‘nalishlar bo‘yicha)",
+          "value": "60710601"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Elektr texnikasi, elektr mexanikasi va elektr texnologiyalari (tarmoqlar bo‘yicha)",
+          "value": "60710705"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Energetika (tarmoqlar bo‘yicha)",
+          "value": "60710500"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Falsafa (yo‘nalishlar bo‘yicha)",
+          "value": "60220501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: ingliz tili",
+          "value": "60230103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: nemis tili",
+          "value": "60230112"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: o‘zbek tili",
+          "value": "60230119"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: qoraqalpoq tili",
+          "value": "60230108"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: qozoq tili",
+          "value": "60230107"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: rus tili",
+          "value": "60230113"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: turkman tili",
+          "value": "60230116"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Fizika",
+          "value": "60530901"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Gazni chuqur qayta ishlash texnologiyasi ",
+          "value": "60721000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Geodeziya, kartografiya va kadastr (funksiyalari bo‘yicha)",
+          "value": "60722500"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Geografiya",
+          "value": "60530400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Geologiya (faoliyat sohasi bo‘yicha)",
+          "value": "60530503"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Gid hamrohligi va tarjimonlik faoliyati: ingliz tili",
+          "value": "61010501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Gidrometeorologiya",
+          "value": "60520100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Gidrotexnika qurilishi (turlari bo‘yicha)",
+          "value": "60730902"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Ijtimoiy ish (fuqarolarning o‘z-o‘zini boshqarish organlari)",
+          "value": "60920101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310106"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jismoniy madaniyat",
+          "value": "60112200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jismoniy madaniyat (xotin-qizlar sporti yo‘nalishi bo‘yicha)",
+          "value": "60112201"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jurnalistika (faoliyat turlari bo‘yicha)",
+          "value": "60320101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jurnalistika: internet jurnalistika",
+          "value": "60320104"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyo (turlari bo‘yicha)",
+          "value": "60530102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kimyoviy texnologiya (ishlab chiqarish turlari bo‘yicha)",
+          "value": "60710101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kompyuter ilmlari va dasturlash texnologiyalari (yo‘nalishlar bo‘yicha)",
+          "value": "60610100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kompyuter lingvistikasi ",
+          "value": "60230800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Madaniyat va san’at muassasalarini tashkil etish hamda boshqarish",
+          "value": "60212000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Marketing (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60412504"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika",
+          "value": "60540100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Materialshunoslik va yangi materiallar texnologiyasi (tarmoqlar bo‘yicha)",
+          "value": "60720602"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Menejment (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60411204"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Metrologiya, standartlashtirish va mahsulot sifati menejmenti (tarmoqlar bo‘yicha)",
+          "value": "60711302"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi",
+          "value": "60112100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Moliya va moliyaviy texnologiyalar",
+          "value": "60410400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Muhandislik kommunikatsiyalari qurilishi va montaji (turlari bo‘yicha)",
+          "value": "60730402"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Neft va gaz ishi (faoliyat turlari bo‘yicha)",
+          "value": "60721805"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Neft va neft-gazni qayta ishlash texnologiyasi",
+          "value": "60721100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Noshirlik ishi",
+          "value": "60230600"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Oziq-ovqat texnologiyasi (mahsulot turlari bo‘yicha)",
+          "value": "60720100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Professional ta'lim: qurilish muhandisligi (bino va inshootlar qurilishi)",
+          "value": "60112423"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Psixologiya: amaliy psixologiya",
+          "value": "60310902"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qurilish muhandisligi: bino va inshootlar qurilishi",
+          "value": "60730303"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qurilish muhandisligi: devorbop va pardozbop qurilish materiallari texnologiyasi",
+          "value": "60730304"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Qurilish muhandisligi: qurilish materiallari, buyumlari va konstruksiyalarini ishlab chiqarish",
+          "value": "60730305"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Rangtasvir: dastgohli",
+          "value": "60210501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Raqamli iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Shahar qurilishi hamda kommunal infratuzilmani tashkil etish va boshqarish",
+          "value": "60730200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Siyosatshunoslik",
+          "value": "60310700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Soliqlar va soliqqa tortish (faoliyat turlari bo‘yicha)",
+          "value": "60410200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sotsiologiya",
+          "value": "60311000"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: futbol",
+          "value": "61010342"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sport faoliyati: kurash",
+          "value": "61010320"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Statistika (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60410800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tarix (mamlakatlar va yo‘nalishlar bo‘yicha)",
+          "value": "60220302"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tarjima nazariyasi va amaliyoti: ingliz tili",
+          "value": "60230202"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Texnologik mashinalar va jihozlar (tarmoqlar bo‘yicha)",
+          "value": "60720705"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Transport logistikasi (avtomobil transporti)",
+          "value": "61040101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Tuproqshunoslik",
+          "value": "60530700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Turizm (faoliyat yo‘nalishlari bo‘yicha )",
+          "value": "61010403"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Vokal san'ati: an'anaviy xonandalik",
+          "value": "60211402"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Vokal san'ati: estrada xonandaligi",
+          "value": "60211403"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xorijiy til va adabiyoti: ingliz tili",
+          "value": "60111802"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi (ishlab chiqarish turlari bo‘yicha)",
+          "value": "60721201"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yo‘l harakatini tashkil etish",
+          "value": "61040300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yo‘l muhandisligi (sohalar va faoliyat turlari bo‘yicha)",
+          "value": "60730802"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Yurisprudensiya (faoliyat turlari bo‘yicha)",
+          "value": "60420103"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Qoraqalpoq davlat universiteti Chimboy  fakulʼteti",
+      "value": "422",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Buxgalteriya hisobi va audit (tarmoqlar bo‘yicha)",
+          "value": "60410103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Filologiya va tillarni o‘qitish: qoraqalpoq tili",
+          "value": "60230108"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310106"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Jismoniy madaniyat",
+          "value": "60112200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Matematika",
+          "value": "60540100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Psixologiya: amaliy psixologiya",
+          "value": "60310902"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Xorijiy til va adabiyoti: ingliz tili",
+          "value": "60111802"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Samarqand davlat veterinariya meditsinasi, chorvachilik va biotexnologiyalar universiteti Nukus filiali",
+      "value": "398",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Agronomiya (yem-xashak ekinlari)",
+          "value": "60810902"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Buxgalteriya hisobi va audit (tarmoqlar bo‘yicha)",
+          "value": "60410103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Iqtisodiyot(qishloq xo‘jaligida)",
+          "value": "60310102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya farmatsevtikasi",
+          "value": "60840200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)",
+          "value": "60840102"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)-Ellikqal'a tumani",
+          "value": "6084010294"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)-Kegeyli tumani",
+          "value": "6084010295"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)-Shumanay tumani",
+          "value": "60840102101"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)-To'rtko'l tumani",
+          "value": "60840102103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Zooinjeneriya (turlari bo‘yicha)",
+          "value": "60811503"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Zooinjeneriya (turlari bo‘yicha)-Amudaryo tumani",
+          "value": "6081150391"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Zooinjeneriya (turlari bo‘yicha)-Beruniy tumani",
+          "value": "6081150392"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Zooinjeneriya (turlari bo‘yicha)-Qanliko'l tumani",
+          "value": "6081150398"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent axborot texnologiyalari universiteti Nukus filiali",
+      "value": "391",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Axborot-kommunikatsiya texnologiyalari sohasida kasb ta’limi",
+          "value": "60611300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Axborot xavfsizligi (sohalar bo‘yicha)",
+          "value": "60610300"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Dasturiy injiniring",
+          "value": "60610600"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Elektron tijorat",
+          "value": "60412800"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kiberxavfsizlik injiniringi ",
+          "value": "60612100"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kompyuter injiniringi: AT-Servis",
+          "value": "60610504"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kompyuter injiniringi: “Kompyuter injiniringi”",
+          "value": "60610503"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Kompyuter injiniringi: multimedia texnologiyalari",
+          "value": "60610505"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Raqamli iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310501"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Sun’iy intellekt ",
+          "value": "60610700"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Telekommunikatsiya texnologiyalari (“Telekommunikatsiyalar”)",
+          "value": "60611001"
+        }
+      ]
+    },
+    {
+      "disabled": false,
+      "group": null,
+      "selected": false,
+      "text": "Toshkent davlat iqtisodiyot universiteti To‘rtko‘l fakulʼteti",
+      "value": "412",
+      "faculties": [
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Axborot tizimlari va texnologiyalari (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60610203"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Bank ishi va auditi",
+          "value": "60410500"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Buxgalteriya hisobi va audit (tarmoqlar bo‘yicha)",
+          "value": "60410103"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+          "value": "60310106"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Moliya va moliyaviy texnologiyalar",
+          "value": "60410400"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Soliqlar va soliqqa tortish (faoliyat turlari bo‘yicha)",
+          "value": "60410200"
+        },
+        {
+          "disabled": false,
+          "group": null,
+          "selected": false,
+          "text": "Turizm (faoliyat yo‘nalishlari bo‘yicha )",
+          "value": "61010403"
+        }
+      ]
+    }
+  ]
+}
