@@ -7,23 +7,6 @@ const Student = require("./db/models/student");
 
 // Chrome brauzerni ochish uchun WebDriver yaratamiz
 
-async function findAndClickElement(driver, locator) {
-  try {
-    const element = await driver.findElement(locator);
-
-    // Elementni ko'rib chiqish
-    // console.log("Element topildi, boshqarilayotgani ko'rinmoqda.");
-
-    // Elementni bosish
-
-    return element;
-
-    // Qolgan dasturni davom ettirish
-    // ...
-  } catch (error) {
-    console.error("Xatolik yuzaga keldi:", error);
-  }
-}
 // Saytga o'tish
 async function exampleTest(region, u, f, qoldiq = 0) {
   try {
@@ -265,6 +248,24 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
   }
 };
 
+const UniversalTarget = async (region, u, f, begin, end) => {
+  let driver = new Builder().forBrowser("chrome").build();
+  await driver.get("https://mandat.uzbmb.uz/Home2023/Index");
+
+  // Sarlavhaga yozish
+  await searchData(driver);
+  await driver.sleep(1000);
+
+  await targetRegion(driver, region);
+  await driver.sleep(5000);
+
+  await universitesTarget(driver, u, f);
+  const submit = await driver.findElement(By.id("Submit1"));
+
+  await submit.click();
+
+  await driver.sleep(2000);
+};
 // Testni boshlaymiz
 // exampleTest("Navoiy viloyati", 1, 1);
 module.exports = { exampleTest, pereviousTest };
