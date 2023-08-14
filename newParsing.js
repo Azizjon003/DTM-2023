@@ -23,7 +23,7 @@ const getData = async (html) => {
       .split("\n")
       .map((el) => el.trim());
 
-    console.log(student);
+    // console.log(student);
     const student_code = student[0];
     const full_name = student[1];
     const uuid = $(table).find("td:last-child a").attr("href");
@@ -39,7 +39,7 @@ const getData = async (html) => {
         student_uuid,
       });
     } catch (e) {
-      console.log(e);
+      console.log("Xatolik");
     }
   }
   // table.each((table, tr) => {
