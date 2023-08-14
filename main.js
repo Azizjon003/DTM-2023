@@ -7,8 +7,8 @@ const app = async () => {
     await sequelize.sync({ alter: true });
     console.log("Connection has been established successfully.");
 
-    exampleTest("Navoiy viloyati", 2, 56, 0);
-    pereviousTest("Navoiy viloyati", 2, 56, 0);
+    exampleTest("Namangan viloyati", 1, 11, 0);
+    pereviousTest("Namangan viloyati", 1, 11, 0);
   } catch (e) {
     console.error("Unable to connect to the database:", e);
   }

@@ -3,6 +3,7 @@ const { Builder, By, Key, until } = require("selenium-webdriver");
 const searchData = require("./imports/search");
 const targetRegion = require("./imports/regionTarget");
 const universitesTarget = require("./imports/universitesTarget");
+const fs = require("fs");
 
 // Chrome brauzerni ochish uchun WebDriver yaratamiz
 
@@ -31,7 +32,7 @@ async function exampleTest(region, u, f, qoldiq = 0) {
       By.css('[style="background-color: #bee5eb;"]')
     );
 
-    console.log(pages.length);
+    // console.log(pages.length);
 
     let page = (await pages.getText())
       .split("Barcha topilgan ma'lumotlar soni:")[1]
@@ -48,7 +49,7 @@ async function exampleTest(region, u, f, qoldiq = 0) {
 
     let newHtml = htmlData.replace("page=1", `page=${qoldiq}`);
 
-    console.log(newHtml);
+    // console.log(newHtml);
 
     // await driver.executeScript(`document.body.innerHTML = '${newHtml}';`);
 
@@ -63,7 +64,7 @@ async function exampleTest(region, u, f, qoldiq = 0) {
 
     page = Math.ceil(Number(page) / 10);
     page = Math.ceil(page / 2) - qoldiq;
-
+    let data = [];
     for (let j = 0; j < page; j++) {
       console.log("Hozirgi sahifa: ", j + 1);
       const trElements = await driver.findElements(By.css("table tr"));
@@ -97,6 +98,13 @@ async function exampleTest(region, u, f, qoldiq = 0) {
 
           let student_uuid = (await tdElements.getAttribute("href")) || "null";
           try {
+            let datacha = {
+              student_code,
+              full_name,
+              student_uuid,
+            };
+
+            data.push(datacha);
             await Student.create({
               student_code,
               full_name,
@@ -122,6 +130,8 @@ async function exampleTest(region, u, f, qoldiq = 0) {
 
       if (j === page - 1) {
         await driver.quit();
+        console.log(data.length);
+        fs.writeFileSync("tekshir.json", JSON.stringify(data));
         await exampleTest(region, u, f + 1);
       }
       console.log(await driver.getCurrentUrl());
@@ -136,7 +146,7 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
   try {
     let driver = new Builder().forBrowser("chrome").build();
     await driver.get("https://mandat.uzbmb.uz/Home2023/Index");
-
+    let data = [];
     // Sarlavhaga yozish
     await searchData(driver);
     await driver.sleep(1000);
@@ -226,11 +236,12 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
         );
         let student_uuid = (await tdElements.getAttribute("href")) || "null";
         try {
-          await Student.create({
+          data.push({
             student_code,
             full_name,
             student_uuid,
           });
+          await Student.create({});
         } catch (e) {
           // console.log(e);
         }
@@ -248,6 +259,8 @@ const pereviousTest = async (region, u, f, qoldiq = 0) => {
 
       if (j === page - 1) {
         await driver.quit();
+        console.log(data.length);
+        fs.writeFileSync("tekshir2.json", JSON.stringify(data));
         await pereviousTest(region, u, f + 1);
       }
       console.log(await driver.getCurrentUrl());

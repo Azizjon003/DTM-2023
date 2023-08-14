@@ -2,7 +2,7 @@ const { requestDtm, sendPagination } = require("./open");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const Student = require("./db/models/student");
-const getData = async (html) => {
+const getData = (html) => {
   // console.log(html);
   const $ = cheerio.load(html);
 
@@ -12,9 +12,10 @@ const getData = async (html) => {
     .split("|")[0]
     .trim();
 
-  console.log(page);
+  // console.log(page);
   // table.val();
 
+  let arr = [];
   for (let i = 2; i <= Number(page) + 1; i++) {
     const table = $(".table").find(`tr:nth-child(${i})`);
     const student = table
@@ -32,22 +33,28 @@ const getData = async (html) => {
     }
     let student_uuid = "https://mandat.uzbmb.uz" + uuid;
 
-    try {
-      await Student.create({
-        full_name,
-        student_code,
-        student_uuid,
-      });
-    } catch (e) {
-      console.log("Xatolik");
-    }
+    let data = {
+      full_name,
+      student_code,
+      student_uuid,
+    };
+    // console.log(data);
+    arr.push(data);
   }
   // table.each((table, tr) => {
   //   console.log($(tr).val());
   // });
+  // console.log(arr);
+  return arr;
 };
 
-const parsing = async (region, university, faculty) => {
+const parsing = async (
+  region,
+  university,
+  faculty,
+  faculties,
+  universities
+) => {
   const base = await requestDtm(region, university, faculty);
   const $ = cheerio.load(base);
   let page = $('[style="background-color: #bee5eb;"]')
@@ -55,23 +62,49 @@ const parsing = async (region, university, faculty) => {
     .split("Barcha topilgan ma'lumotlar soni:")[1]
     .split("Konkurs:")[0]
     .trim();
+  let isPage = page;
+  let data = [];
+  console.log(page);
   if (!(Number(page) >= 11)) {
-    await getData(base);
+    let nimadir = getData(base);
+    data.push(...nimadir);
   }
 
   page = Math.ceil(Number(page) / 10);
 
   for (let i = 1; i <= page; i++) {
-    let html = await sendPagination(region, university, faculty, i);
-    await getData();
+    try {
+      let html = await sendPagination(region, university, faculty, i);
+      let datacha = getData(html);
+      data.push(...datacha);
+    } catch (e) {
+      console.log(e);
+      console.log(
+        "Xatolik : Dasturda xatolik bor ",
+        region,
+        university,
+        faculty
+      );
+    }
   }
+
+  console.log(
+    "Talabalar Soni: ",
+    data.length,
+    isPage,
+    `${universities}-${faculties}`
+  );
+  fs.writeFileSync(
+    `init/${region}/${universities}-${faculties}.json`,
+    JSON.stringify(data)
+  );
 };
 
 const ishla = async () => {
   let data = fs.readFileSync("data.html", "utf-8");
-  await getData(data);
+  getData(data);
 };
-// ishla();
+ishla();
 
 module.exports = parsing;
 // regionID=1
